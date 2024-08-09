@@ -1,6 +1,3 @@
-
-# OnlineBookStore
-
 ## Project Overview
 
 The *OnlineBookStore* is a web application designed for an online bookstore that sells physical books, e-books, and audiobooks. Customers can browse the catalog, make purchases, and leave reviews. Authors and publishers are also part of the system. This project implements full CRUD (Create, Read, Update, Delete) functionality for the main entities involved: Authors, Books, Customers, and Reviews. The project also includes unit and integration tests to ensure the reliability and robustness of the operations.
